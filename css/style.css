@@ -4,6 +4,9 @@
 */
 img {
   float: right;
+  padding-right: 100pt;
+  padding-top: 50pt;
+  
 }
 
 .mdl-layout__header-row {
@@ -13,8 +16,8 @@ img {
 
 .mdl-layout__content {
   padding-left: 15pt;
-  padding-right: 15pt;
-  padding-top: 15pt;
+  padding-right: 50pt;
+  padding-top: 10pt;
 }
 
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
